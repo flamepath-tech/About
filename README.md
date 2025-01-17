@@ -59,6 +59,8 @@ Create your account, enroll in courses, and start building your dream career wit
 
 **"By joining Flamepath Academy, you’re not just learning – you’re building a future where the sky is no longer the limit."**  
 
+#website:https://bit.ly/Flamepathacademy
+
 ---
 
 **“Fuel your passion. Forge your path. With Flamepath Academy, your future starts today!”**  
